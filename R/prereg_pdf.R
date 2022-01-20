@@ -55,10 +55,7 @@ prereg_pdf <- function(...) {
     # save files dir (for generating intermediates)
     saved_files_dir <<- files_dir
 
-    args <- pdf_pre_processor(metadata, input_file, runtime, knit_meta, files_dir, output_dir)
-
-    header_includes <- c("\\setlength{\\headheight}{14.0pt}", metadata$`header-includes`)
-    args <- c(args, "--variable", paste0("header-includes:", paste(header_includes, collapse = "\n")))
+    pdf_pre_processor(metadata, input_file, runtime, knit_meta, files_dir, output_dir)
 
   }
 
