@@ -31,4 +31,4 @@
 #' @docType package
 #' @name prereg
 
-NULL
+"_PACKAGE"
