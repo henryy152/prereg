@@ -19,7 +19,6 @@ Suggests:
   testthat
 License: GPL-3
 Encoding: UTF-8
-LazyData: TRUE
 Language: en-US
 RoxygenNote: 7.1.2
 Roxygen: list(markdown = TRUE)
