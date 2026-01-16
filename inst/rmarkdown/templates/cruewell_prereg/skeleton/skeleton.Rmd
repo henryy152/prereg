@@ -237,7 +237,7 @@ D. Personnel who analyze the data collected from the study are not aware of the
 treatment applied to any given group. -->
 
 ## Additional blinding
-<--Is there any additional blinding in this study?-->
+<!--Is there any additional blinding in this study?-->
 Enter your response here.
 
 
@@ -335,7 +335,7 @@ Enter your response here.
 # Cognitive modelling
 
 ## Cognitive model*
-Please include the type of model used (e.g. diffusion model, Linear ballistic accumulator
+<!-- Please include the type of model used (e.g. diffusion model, Linear ballistic accumulator
 model), and a specific parameterisation/parameterisations.
 Example: The parameters of a simple diffusion model will be estimated, namely only:
 drift rate (v), starting point (z), threshold (a), non-decision time (ter). This differs from
@@ -456,7 +456,7 @@ Enter your response here.
 
 # Robustness checks
 ## Robustness Checks and Sensitivity Analyses*
-<--Please specify any planned robustness checks and/or sensitivity analyses, if any. If a
+<!--Please specify any planned robustness checks and/or sensitivity analyses, if any. If a
 parameter recovery study was performed, please report its results and your
 conclusions here.
 Example: The key analysis will be replicated a) including participants/trials that were
