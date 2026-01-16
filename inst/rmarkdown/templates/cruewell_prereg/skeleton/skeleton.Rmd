@@ -20,22 +20,6 @@ output: prereg::prereg_pdf
 
 # Study Information
 
-## Title (required)
-<!--Provide an informative working title for your project. This title may change before
-publication.
-Example: The effect of practice and feedback on optimality in the speed-accuracy
-tradeoff.
-More info: This title needs to be descriptive and specific to your project. Avoid
-exceedingly vague titles such as 'Decision making preregistration plan'.-->
-
-Enter your response here.
-
-## Authors (required)
-<!--Provide the names and order of the authors involved in this project. This can be changed
-later.
-Example: Cora Dubrey, Fernando Crabtree, & Annette Bopp-->
-
-Enter your response here.
 
 ## Description 
 <!-- Briefly describe your study, giving some information on its background and purpose.
@@ -52,7 +36,7 @@ preregistration -->
 Enter your response here.
 
 
-## Hypotheses (required)
+## Hypotheses*
 <!-- List the hypotheses to be tested. Ensure specificity, precisenesss, and exhaustiveness
 by stating all your hypotheses/predictions as specifically and unambiguously as possible,
 ideally also emphasising that you will only be testing these hypotheses in your
@@ -73,7 +57,7 @@ Enter your response here.
 <!-- If you are using pre-existing data, please fill in this section and ignore the sections Sampling Plan, Design Plan, and Variables. If you are collecting the data yourself, please ignore this section and fill in the sections Sampling Plan, Design Plan, and Variables. -->
 
 
-## Dataset(s)
+## Dataset(s)*
 <!-- Name or brief description of dataset(s) Example: Motion discrimination task with a random dot kinematogram in 70 participants.
 The data used for this study is only a relevant subset of the full data set, which includes
 more groups and 133 participants in total -->
@@ -81,25 +65,25 @@ more groups and 133 participants in total -->
 Enter your response here.
 
 
-## Publically available?
+## Publically available?*
 
 **Yes**
 
 **No**
 
 
-## Access
+## Access*
 <!-- How can the data be accessed? Provide link if available online. -->
 
 Enter your response here.
 
 
-## Date of access 
+## Date of access/download*
 
 Enter your response here.
 
 
-## Data Source
+## Data Source*
 <!-- Please select and describe what entity originally collected this data. (required)
 Examples/Options:
 National Data Set – a nationally representative sample collected by another team of
@@ -116,14 +100,14 @@ Other – please explain -->
 Enter your response here.
 
 
-## Codebook
+## Codebook*
 <!--Some studies (usually publically available) offer codebooks to describe their data. If such
 a codebook is available, please link to it here or upload the document. -->
 
 Enter your response here.
 
 
-## Sampling and data collection procedures (required)
+## Sampling and data collection procedures*
 <!-- If the data collection procedure is already well documented, please provide a link to the
 information. If the data collection procedure is not yet well documented, please describe,
 to the best of your ability, how data were collected. What populations were sampled
@@ -139,7 +123,7 @@ task used the random dot kinetogram, following Evans & Brown (2017) and Evans et
 Enter your response here.
 
 
-## Prior work based on the dataset (required)
+## Prior work based on the dataset*
 <!--Have you published/presented any previous work based on this dataset? Include
 any publications, conference presentations (papers, posters), or working papers
 (in-prep, unpublished, preprints) based on this data set that you have worked on.
@@ -148,7 +132,7 @@ Example: There does not exist prior work based on this data set. -->
 Enter your response here.
 
 
-## Prior Research Activity (required)
+## Prior Research Activity*
 <!-- Describe any prior knowledge of the dataset. Be specific and transparent.
 Example: We have already fit the model from Figure 1 [not included here] to the
 data and checked the results from one of the groups that are not relevant for the
@@ -163,7 +147,7 @@ Enter your response here.
 
 <!-- If you are using pre-existing data, you may delete this section. -->
 
-## Data collection procedures (required)
+## Data collection procedures*
 
 <!-- Please describe your data collection process. If you are using human subjects, this
 should include the population from which you obtain subjects, recruitment efforts,
@@ -183,7 +167,7 @@ rationale for this unique set of subjects should be clear -->
 Enter your response here.
 
 
-## Sample size (required)
+## Sample size*
 <!--Describe the sample size of your study. How many units will be analyzed in the study? If
 the units are not individuals, then describe the size requirements for each unit. Eiter state
 exact numbers or an expected range.
@@ -227,8 +211,8 @@ designed to register a single study, so if you have multiple experimental design
 complete a separate preregistration. Note that this is about experimental design; your modelling
 design choices will be registered in a later section. -->
 
-## Study type
-<!--
+## Study type*
+<!-- Please select one of the following options by deleting the others -->
 A. Experiment - A researcher randomly assigns treatments to study subjects, this
 includes field or lab experiments. This is also known as an intervention experiment
 and includes randomized controlled trials.
@@ -237,13 +221,12 @@ B. Observational Study - Data is collected from study subjects that are not rand
 assigned to a treatment. This includes surveys, natural experiments, and regression
 discontinuity designs. 
 
-C. Other-->
+C. Other
 
-Enter your response here.
 
-## Blinding
+## Blinding*
 <!-- Blinding describes who is aware of the experimental manipulations within a study. Mark
-all that apply.
+all that apply.-->
 A. No blinding is involved in this study.
 B. For studies that involve human subjects, they will not know the treatment group to
 which they have been assigned.
@@ -253,14 +236,12 @@ subjects) will not be aware of the assigned treatments. (Commonly known as
 D. Personnel who analyze the data collected from the study are not aware of the
 treatment applied to any given group. -->
 
+## Additional blinding
+<--Is there any additional blinding in this study?-->
 Enter your response here.
 
-## Is there any additional blinding in this study?
 
-Enter your response here.
-
-
-## Experimental design
+## Experimental design*
 <!-- Describe your experimental design.
 Example: We have a 3 (feedback: low, medium, high) by 2 (fixed time, fixed trial) by 23
 (practice block) design.
@@ -297,7 +278,7 @@ definition of each manipulated variable. -->
 Enter your response here.
 
 
-## Measured variables
+## Measured variables*
 <!-- Describe each variable that you will measure.
 Example: The outcome variables measured are reaction time and response accuracy.
 More information: Observational studies will include only measured variables. As with
@@ -325,7 +306,7 @@ Enter your response here.
 # Data Cleaning
 
 
-## Data exclusion
+## Data exclusion*
 <!-- How will you determine what data (e.g., participants or trials), if any, will be excluded
 from your analyses? How will outliers be handled? Will you use any awareness checks?
 Example: For all participants, the first block of trials will be excluded to allow for
@@ -353,28 +334,7 @@ Enter your response here.
 
 # Cognitive modelling
 
-## Cognitive model
-<!-- Data Cleaning
-27. Data exclusion (required)
-How will you determine what data (e.g., participants or trials), if any, will be excluded
-from your analyses? How will outliers be handled? Will you use any awareness checks?
-Example: For all participants, the first block of trials will be excluded to allow for
-participants to become adequately practiced at the task. Trials with response times
-below 150ms or above 10000ms will be excluded as anticipatory responses and trials
-where participants lost attention, respectively. Participants with task accuracy below 60%
-or less than 200 eligible trials (based on the number of trials required for accurate
-parameter estimation) will be excluded.
-More information: Any rule for excluding a particular set of data is acceptable. You may
-describe rules for excluding a participant and/or for identifying outlier data.
-28. Missing data (optional)
-How will you deal with incomplete or missing data?
-Example: If a subject does not complete the entire duration of the experiment, that
-subject will not be included in the analysis.
-More information: Any relevant explanation is acceptable. As a final reminder,
-remember that the final analysis must follow the specified plan, and deviations must be
-either strongly justified or included as a separate, exploratory analysis.
-Cognitive Modelling
-29. Cognitive Model (Required)
+## Cognitive model*
 Please include the type of model used (e.g. diffusion model, Linear ballistic accumulator
 model), and a specific parameterisation/parameterisations.
 Example: The parameters of a simple diffusion model will be estimated, namely only:
@@ -400,7 +360,7 @@ parameterisation as well. -->
 Enter your response here.
 
 
-## Parameter estimation
+## Parameter estimation*
 <!-- Please specify and motivate your method of parameter estimation.
 Example: Only Bayesian hierarchical modeling will be used to estimate the parameters
 of the diffusion model, constraining individual-level parameters to follow group-level
@@ -494,9 +454,9 @@ confirmatory from exploratory results in your final article. -->
 Enter your response here.
 
 
-## Robustness checks/ sensitivity analyses
-<!-- Robustness Checks and Sensitivity Analyses (Required)
-Please specify any planned robustness checks and/or sensitivity analyses, if any. If a
+# Robustness checks
+## Robustness Checks and Sensitivity Analyses*
+<--Please specify any planned robustness checks and/or sensitivity analyses, if any. If a
 parameter recovery study was performed, please report its results and your
 conclusions here.
 Example: The key analysis will be replicated a) including participants/trials that were
@@ -512,7 +472,7 @@ of robustness is at least not due to post-hoc, data-driven choices. -->
 Enter your response here.
 
 
-## Contingency plans
+# Contingency plans
 <!-- Please specify any and all contingency plans to ensure that your preregistration plan is
 robust to common issues. There is no need to cover every eventuality, but if possible, try
 and cover some of these common issues suggested here, and/or issues that you
