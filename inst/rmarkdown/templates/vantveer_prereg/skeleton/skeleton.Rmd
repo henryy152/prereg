@@ -44,7 +44,7 @@ Enter your response here.
 # Methods
 
 ## Design*
-<!--List, based on your hypotheses from section A:
+<!-- List, based on your hypotheses from section A:
             i. Independent variables with all their levels
                 1. Whether they are within- or between-participant
                 2. The relationship between them (e.g., orthogonal, nested).
@@ -52,21 +52,21 @@ Enter your response here.
             iii. Third variables acting as covariates or moderators.-->
 Enter your response here
 ## Planned Sample*
-            <!--i. If applicable, describe pre-selection rules.
+            <!-- i. If applicable, describe pre-selection rules.
             ii. Indicate where, from whom and how the data will be collected.
             iii. Justify planned sample size
             iv. If applicable, you can upload a file related to your power analysis here (e.g., a protocol of power analyses from G*Power, a script, a screenshot, etc.).
             v. Describe data collection termination rule.-->
 Enter your response here
 ## Exclusion Criteria*
-            <!--i. Describe anticipated specific data exclusion criteria. For example:
+            <!-- i. Describe anticipated specific data exclusion criteria. For example:
                 1. Missing, erroneous, or overly consistent responses;
                 2. Failing check-tests or suspicion probes;
                 3. Demographic exclusions;
                 4. Data-based outlier criteria;
                 5. Method-based outlier criteria (e.g. too short or long response times).-->
 ## Procedure*
-            <!--i. Describe all manipulations, measures, materials and procedures including the order of presentation and the method or randomization and blinding (e.g., single or double blind), as in a published Methods section. -->
+            <!-- i. Describe all manipulations, measures, materials and procedures including the order of presentation and the method or randomization and blinding (e.g., single or double blind), as in a published Methods section. -->
 
 Enter your response here.
 
