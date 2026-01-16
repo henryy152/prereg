@@ -17,7 +17,7 @@ affiliation:
 
 output: prereg::prereg_pdf
 ---
-<!--For any required question that does not apply to your study put ‘N/A’ in the space for the relevant field. See van ‘t Veer & Giner-Sorolla (2016) or https://osf.io/56g8e/ for additional information.-->
+<!--For any required question that does not apply to your study put ‘N/A’ in the space for the relevant field. See van ‘t Veer & Giner-Sorolla (2016) or https://osf.io/56g8e/ for additional information. -->
 
 # Hypotheses
 
@@ -49,14 +49,14 @@ Enter your response here.
                 1. Whether they are within- or between-participant
                 2. The relationship between them (e.g., orthogonal, nested).
             ii. List dependent variables, or variables in a correlational design
-            iii. Third variables acting as covariates or moderators.-->
+            iii. Third variables acting as covariates or moderators. -->
 Enter your response here
 ## Planned Sample*
             <!-- i. If applicable, describe pre-selection rules.
             ii. Indicate where, from whom and how the data will be collected.
             iii. Justify planned sample size
             iv. If applicable, you can upload a file related to your power analysis here (e.g., a protocol of power analyses from G*Power, a script, a screenshot, etc.).
-            v. Describe data collection termination rule.-->
+            v. Describe data collection termination rule. -->
 Enter your response here
 ## Exclusion Criteria*
             <!-- i. Describe anticipated specific data exclusion criteria. For example:
@@ -64,7 +64,7 @@ Enter your response here
                 2. Failing check-tests or suspicion probes;
                 3. Demographic exclusions;
                 4. Data-based outlier criteria;
-                5. Method-based outlier criteria (e.g. too short or long response times).-->
+                5. Method-based outlier criteria (e.g. too short or long response times). -->
 ## Procedure*
             <!-- i. Describe all manipulations, measures, materials and procedures including the order of presentation and the method or randomization and blinding (e.g., single or double blind), as in a published Methods section. -->
 
@@ -92,7 +92,7 @@ Enter your response here.
             iv. Anticipated data transformations.
             v. Assumptions of analyses, and plans for alternative/corrected analyses if each assumption is violated.             
             vi. Optionally, upload any files here that are related to your analyses (e.g., syntaxes, scripts, etc.).
-                1. You may attach up to 5 files to this question. You may attach files that you already have in this OSF project, or upload a new file from your computer. Uploaded files will automatically be added to this project so that they can be registered.t-->
+                1. You may attach up to 5 files to this question. You may attach files that you already have in this OSF project, or upload a new file from your computer. Uploaded files will automatically be added to this project so that they can be registered. -->
 
 Enter your response here.
 
@@ -105,7 +105,7 @@ Please choose:
     2. If data collection has begun, have you looked at the data? (required)
         a. Please choose:
             i. Yes
-            ii. No-->
+            ii. No -->
 
 Enter your response here.
 
