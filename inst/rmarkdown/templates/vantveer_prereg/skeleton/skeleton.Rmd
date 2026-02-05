@@ -50,14 +50,18 @@ Enter your response here.
                 2. The relationship between them (e.g., orthogonal, nested).
             ii. List dependent variables, or variables in a correlational design
             iii. Third variables acting as covariates or moderators. -->
+
 Enter your response here
+
 ## Planned Sample*
             <!-- i. If applicable, describe pre-selection rules.
             ii. Indicate where, from whom and how the data will be collected.
             iii. Justify planned sample size
             iv. If applicable, you can upload a file related to your power analysis here (e.g., a protocol of power analyses from G*Power, a script, a screenshot, etc.).
             v. Describe data collection termination rule. -->
+
 Enter your response here
+
 ## Exclusion Criteria*
             <!-- i. Describe anticipated specific data exclusion criteria. For example:
                 1. Missing, erroneous, or overly consistent responses;
