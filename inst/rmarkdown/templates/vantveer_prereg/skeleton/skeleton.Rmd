@@ -23,9 +23,9 @@ output: prereg::prereg_pdf
 
 ## Description of essential elements*
 <!--
-        a. Describe the (numbered) hypotheses in terms of directional relationships between your (manipulated or measured) variables.
-        b. For interaction effects, describe the expected shape of the interactions.
-        c. If you are manipulating a variable, make predictions for unsuccessful check variables or explain why no manipulation check is included. -->
+        1. Describe the (numbered) hypotheses in terms of directional relationships between your (manipulated or measured) variables.
+        2. For interaction effects, describe the expected shape of the interactions.
+        3. If you are manipulating a variable, make predictions for unsuccessful check variables or explain why no manipulation check is included. -->
 
 Enter your response here.
 
@@ -35,8 +35,8 @@ Enter your response here.
 
 File(s) selected for upload:
 
-        a. For original research, add rationales or theoretical frameworks for why a certain hypothesis is tested.
-        b. If multiple predictions can be made for the same IV-DV combination, describe what outcome would be predicted by which theory. -->
+        1. For original research, add rationales or theoretical frameworks for why a certain hypothesis is tested.
+        2. If multiple predictions can be made for the same IV-DV combination, describe what outcome would be predicted by which theory. -->
 
 Enter your response here.
 
@@ -45,20 +45,21 @@ Enter your response here.
 
 ## Design*
 <!-- List, based on your hypotheses from section A:
-i. Independent variables with all their levels
-                1. Whether they are within- or between-participant
-                2. The relationship between them (e.g., orthogonal, nested).
-ii. List dependent variables, or variables in a correlational design
-iii. Third variables acting as covariates or moderators. -->
+1. Independent variables with all their levels
+    1. Whether they are within- or between-participant
+    2. The relationship between them (e.g., orthogonal, nested).
+2. List dependent variables, or variables in a correlational design
+3. Third variables acting as covariates or moderators. -->
 
 Enter your response here
 
 ## Planned Sample*
-            <!-- i. If applicable, describe pre-selection rules.
-ii. Indicate where, from whom and how the data will be collected.
-iii. Justify planned sample size
-iv. If applicable, you can upload a file related to your power analysis here (e.g., a protocol of power analyses from G*Power, a script, a screenshot, etc.).
-v. Describe data collection termination rule. -->
+            <!-- 
+1. If applicable, describe pre-selection rules.
+2. Indicate where, from whom and how the data will be collected.
+3. Justify planned sample size
+4. If applicable, you can upload a file related to your power analysis here (e.g., a protocol of power analyses from G*Power, a script, a screenshot, etc.).
+5. Describe data collection termination rule. -->
 
 Enter your response here
 
@@ -82,23 +83,23 @@ Enter your response here.
 
 ## Confirmatory analyses 
 <!-- Describe the analyses that will test the first main prediction from the hypotheses section. Include:
-i. The relevant variables and how they are calculated;
-ii. The statistical technique;
-iii. Each variable’s role in the technique (e.g., IV, DV, moderator, mediator, covariate);
-iv. Rationale for each covariate used, if any;
-v. If using techniques other than null hypothesis testing (for example, Bayesian statistics), describe your criteria and inputs toward making an evidential conclusion, including prior values or distributions.  -->
+1. The relevant variables and how they are calculated;
+2. The statistical technique;
+3. Each variable’s role in the technique (e.g., IV, DV, moderator, mediator, covariate);
+4. Rationale for each covariate used, if any;
+5. If using techniques other than null hypothesis testing (for example, Bayesian statistics), describe your criteria and inputs toward making an evidential conclusion, including prior values or distributions.  -->
 
 Enter your response here.
 
 
 ## Recommended Elements
-<!--         a. Specify contingencies and assumptions, such as:
-i. Methods of correction for multiple tests.
-ii. The method of missing data handling (e.g., pairwise or listwise deletion, imputation, interpolation).
-iii. Reliability criteria for item inclusion in scale.
-iv. Anticipated data transformations.
-v. Assumptions of analyses, and plans for alternative/corrected analyses if each assumption is violated.             
-vi. Optionally, upload any files here that are related to your analyses (e.g., syntaxes, scripts, etc.).
+<!--          Specify contingencies and assumptions, such as:
+1. Methods of correction for multiple tests.
+2. The method of missing data handling (e.g., pairwise or listwise deletion, imputation, interpolation).
+3. Reliability criteria for item inclusion in scale.
+4. Anticipated data transformations.
+5. Assumptions of analyses, and plans for alternative/corrected analyses if each assumption is violated.             
+6. Optionally, upload any files here that are related to your analyses (e.g., syntaxes, scripts, etc.).
                 1. You may attach up to 5 files to this question. You may attach files that you already have in this OSF project, or upload a new file from your computer. Uploaded files will automatically be added to this project so that they can be registered. -->
 
 Enter your response here.
@@ -107,12 +108,12 @@ Enter your response here.
 ## Existing data
 <!-- Has data collection begun for this project?   
 Please choose: -->
-            i. No, data collection has not begun
-            ii. Yes, data collection is underway or complete.
-  <!--  2. If data collection has begun, have you looked at the data? (required)
+   1. No, data collection has not begun
+   2. Yes, data collection is underway or complete.
+  <!--  If data collection has begun, have you looked at the data? (required)
         a. Please choose: -->
-            i. Yes
-            ii. No 
+   1. Yes
+   2. No 
 
 
 ## Project schedule
