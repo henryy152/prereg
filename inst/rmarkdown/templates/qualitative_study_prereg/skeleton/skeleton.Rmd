@@ -18,21 +18,19 @@ affiliation:
 output: prereg::prereg_pdf
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Study Information
 
 ## Researcher background
 <!-- Describe your characteristics, background or standpoints as a researcher. Here you can think about your identity, credentials, gender, experience, values, etc. -->
+
 
 Enter your response here.
 
 
 ## Duration
 
-Project start date:  
+Project start date: 
+
 Estimated project end date: 
 
 
