@@ -18,14 +18,13 @@ affiliation:
 output: prereg::prereg_pdf
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Title
 
 ## Contributors, Affiliations, and Persistent IDs
 <!--Provide in separate entries the full name of each contributor, each contributor's professional affiliation, and each contributor's persistent ID. See ORCID iD for an example of persistent ID (https://orcid.org/). Include the intended contribution of each person listed (e.g. statistical analysis, data collection). Optionally, you can use CRediT to describe these roles (https://credit.niso.org/). It is possible to change the contributions later in the process.-->
+
 Enter your response here
 
 
@@ -51,6 +50,7 @@ Enter your response here
 
 ##  Estimated duration of project
 <!--Include the best estimate for how long the project will take from preregistration submission to project completion.-->
+
 Enter your response here
 
 
@@ -70,6 +70,7 @@ Enter your response here
 
 ## Software
 <!--Indicate which software will be used for which step (e.g., OpenSesame will be used to implement the experiment, R will be used to analyze the data).-->
+
 Enter your response here
 
 ## Will you use standard lab practices?
@@ -86,6 +87,7 @@ Enter your response here
 -Secure data center: No download; usage/analysis only in a secure data center
 -Upon request: Data available upon email request by member of scientific community
 -None: You do not plan to share this research product at all.-->
+
 Analysis code
 * as public use file
 * as scientific use file
@@ -94,6 +96,7 @@ Analysis code
 * per email request
 * none
 * not applicable
+
 Raw data
 * as public use file
 * as scientific use file
@@ -102,6 +105,7 @@ Raw data
 * per email request
 * none
 * not applicable
+
 Experimental code
 * as public use file
 * as scientific use file
@@ -110,14 +114,7 @@ Experimental code
 * per email request
 * none
 * not applicable
-Raw data
-* as public use file
-* as scientific use file
-* on case basis
-* via secure data center
-* per email request
-* none
-* not applicable
+
 Processed data
 * as public use file
 * as scientific use file
@@ -129,10 +126,12 @@ Processed data
 
 ## Planned repositories
 <!--Specify the planned repository(s) for archiving your materials or, if you have already published them, provide their persistent identifier(s).-->
+
 Enter your response here
 
 ## Other information
 <!--If there is anything else you want to add regarding your project documentation, you can  do so here.-->
+
 Enter your response here
 
 
@@ -140,28 +139,34 @@ Enter your response here
 
 ## Abstract 
 <!--Write a short summary (ca. 150 words) that includes information about the background of your study (i.e. how are your research hypotheses justified?), your objectives and research questions, your sample (e.g. size, recruitment, participant characteristics, or compensation), your methods (i.e. type of study, design) and your analyses (e.g. t tests comparing A vs. B). You will find more information about each point in the later sections of this template.-->
+
 Enter your response here 
 
 ## Keywords 
 <!--Include terms specific to your topic, methodology, and population. Use natural language and avoid words used in the title or overly general terms. If you need help with keywords, try a keyword search using your proposed keywords in a search engine to check the results. We recommend using between 3 and 7 keywords (e.g., “evaluative learning, subliminal influence, implicit learning, replication”).-->
+
 Enter your response here 
 
 # Introduction
 
 ## Theoretical background
 <!--Provide a concise overview that justifies the research questions/hypotheses (you can use bullet points). This should contain any relevant theoretical and/or practical/methodological justification. Please include references here and list them at the end of this document in the reference section-->
+
 Enter your response here
 
 ## Objectives and Research question(s)
 <!--Outline the a) objectives and b) research questions that inform the methodology and analyses described below.-->
+
 Enter your response here 
 
 ## Hypotheses (H1, H2, …)
 <!--If you test hypotheses in your study: Provide hypotheses for predicted results in terms of the specific constructs that will inform the independent and dependent variables (e.g., main effects, interactions), if available. If multiple hypotheses, uniquely number them (e.g., H1, H2a, H2b) and refer to them the same way at other points in this registration document and the manuscript.-->
+
 Enter your response here 
 
 ## Exploratory research questions (if applicable; E1, E2, ....)
 <!--If you have exploratory research questions: Provide a rationale for your exploratory questions here. If multiple exploratory research questions, uniquely number them (E1, E2a, E2b, ...) and refer to them in the same way in the registration document and future publications.--> 
+
 Enter your response here
 
 
@@ -170,16 +175,19 @@ Enter your response here
 
 ## Pre-existing data: Publication status, source, and knowledge
 <!--Will pre-existing data be used in the planned study? If yes, indicate whether the data were previously published and specify the source of the data (e.g., DOI or APA style reference of original publication). Specify your level of knowledge of the data in more detail below (e.g., descriptive statistics from previous publications), whether or not this is relevant for the hypotheses of the present study, and how it is assured that you are unaware of results or statistical patterns in the data of relevance to the present hypotheses.-->
+
 Enter your response here
 
 ## Piloting
 <!--Describe any conducted or planned piloting of your material/method. If already conducted, describe your pilot study, and what you have learned from it. You can also add the results of the pilot as supplementary material.-->
+
 Enter your response here
 
 ## Sample size justification
 <!--Report relevant planned sample sizes:
 For designs with fixed sample sizes, provide a rationale (e.g. power analysis/curves, practical reasons). Give references, if appropriate.
 For sequential designs, indicate your ‘stopping rule’ such as the points at which you intend to be viewing your data and in any way analyzing them.-->
+
 Enter your response here
 
 ## Participant recruitment, selection, and compensation
@@ -189,22 +197,27 @@ Enter your response here
 (c) details of any quota sampling or stratification sampling (i.e., splitting a population into subpopulations and sampling each subpopulation independently) used
 (d) planned participant characteristics (e.g., gender, race/ethnicity, sexual orientation, and gender identity, SES, education level, age, disability or health status, geographic location); 
 (e) compensation amount and method (e.g., same payment to all, pay based on performance, lottery).-->
+
 Enter your response here
 
 ## How will participant drop-out be handled?
 <!--Indicate any special treatment for participants who drop out (i.e., who are recruited but withdraw before the study concludes), e.g., whether there is a follow-up in a manner different from the main sample, the last value is carried forward, or participants are replaced. Note that procedures to handle missing data during data analyses are inquired in the next section.-->
+
 Enter your response here
 
 ## Masking of participants and researchers
 <!--Indicate whether you will use any form of masking. If yes, describe the masking procedure (e.g., are administrators, data collectors, raters, or confederates unaware of the condition to which participants were assigned; are participants, experimenters, or analysts unaware of the hypotheses).-->
+
 Enter your response here
 
 ## Other information
 <!--If there is anything else you want to add regarding your sampling procedure and data collection, describe it here.-->
+
 Enter your response here
 
 ## Type of study and study design
 <!--Indicate the type of study (e.g., experimental, observational, cross-sectional vs. longitudinal, single case, clinical trial), effects of interest (e.g., between vs. within subjects), the number of factors and factor levels, etc..-->
+
 Enter your response here
 
 ## Randomization of participants and/or experimental materials
@@ -213,10 +226,12 @@ Enter your response here
 (b) how stimuli are assigned to conditions, and 
 (c) how the presentation of tests, trials, etc. is randomized or counterbalanced. 
 Indicate the randomization technique and whether constraints were applied (pseudo-randomization). Indicate any type of balancing across participants (e.g., assignments of responses to hands, etc.).-->
+
 Enter your response here
 
 ## Measured variables, manipulated variables, covariates
 <!--This section shall be used to unambiguously clarify which variables are used to operationalize the hypotheses and/or exploratory research questions specified in the introduction section. Please (a) list all measured and manipulated variables, and (b) explicitly state the functional role of each variable (i.e., independent variable, dependent variable, covariate, mediator, moderator, exploratory measure). It is important to specify for each hypothesis how it is operationalized, i.e., which variables will be used to test the respective hypothesis and how the hypothesis will be operationally defined in terms of these variables. The description here shall be consistent with the statistical analysis plans specified in the analyses section.-->
+
 Enter your response here
 
 ## Exhaustiveness of variables
@@ -227,14 +242,17 @@ Enter your response here
 
 ## Study Materials
 <!--Please describe any relevant study materials (e.g., stimulus materials used for experiments, questionnaires used for rating studies, training protocols for intervention studies) or provide their persistent identifier. State any adaptations made to existing measures.-->
+
 Enter your response here 
 
 ## Study Procedures
 <!--Please describe any relevant information about how the study will be conducted (e.g., the number and timing of measurement for longitudinal research, the number of blocks, the number of training sessions in interventional studies, questionnaire/study administration for online assessments/laboratory setting).-->
+
 Enter your response here 
 
 ## Other information
 <!--If there is anything else you want to add regarding your conditions and design, describe it here.-->
+
 Enter your response here 
 
 
@@ -243,10 +261,12 @@ Enter your response here
 
 ## Criteria for post-data collection exclusion of participants
 <!--Describe all criteria that will lead to the exclusion of a participant's data (e.g. performance criteria, non-responding in physiological measures, incomplete data). Be as specific as possible (e.g., detail cut-offs, use of list- or case-wise exclusion). Clarify whether a participant who is an outlier in one variable will only be excluded from the analyses that involve that specific variable, or if they will be excluded from all tests.-->
+
 Enter your response here 
 
 ## Criteria for post-data collection exclusions on trial level
 <!--Describe all criteria that will lead to the exclusion of a trial or item (e.g. statistical outliers, response time, reliability scores, incorrect trials). Be as specific as possible.--> 
+
 Enter your response here 
 
 ## Exhaustiveness of exclusion criteria
@@ -257,38 +277,47 @@ Enter your response here
 
 ## Data preprocessing
 <!--Describe all data manipulations that are performed in preparation of the main analyses (e.g., calculation of variables or scales, recoding, any data transformations, preprocessing steps for imaging or physiological data). If applicable, refer to your publicly accessible standard lab procedure.-->
+
 Enter your response here
 
 ## Data cleaning and screening
 <!--Indicate all steps related to data quality control (e.g., testing assumptions, outlier treatment, interrater reliability training, checks for normality).-->
+
 Enter your response here 
 
 ## How will missing data be handled?
 <!--Indicate any procedures that will be applied during the analysis to deal with missing data, such as (a) case deletions; (b) averaging across scale items (to handle missing items for some); (c) test of missingness (MAR, MCAR, MNAR assumptions); (d) imputation procedures; (e) intention to treat analysis and per protocol analysis (as appropriate).-->
+
 Enter your response here 
 
 ## Reliability analysis (if applicable)
 <!--Specify the type of scale reliability that will be estimated, whether it is internal consistency (e.g. Cronbach's alpha, omega), test-retest reliability, or some other form (e.g., a confirmatory factor analysis incorporating multiple factors as sources of variance). In a study involving measure development, researchers should specify criteria for removing items from measures a priori (e.g., largest factor loading magnitude, smallest drop in alpha-if-item removed).-->
+
 Enter your response here
 
 ## Descriptive statistics
 <!--Specify which descriptive statistics will be calculated for which variables (refer to the variables specified in the previous section). If descriptive statistics are linked to specific hypotheses in the introduction section, explicitly link the information given here to the respective hypothesis.-->
+
 Enter your response here
 
 ## Statistical models
 <!--If you test hypotheses in your study: Specify the statistical model (e.g. t test, ANOVA, LMM) that will be used to test each of your hypotheses. Give all necessary information about model specification (e.g., variables, interactions, planned contrasts) and follow-up analyses. Include model selection criteria (e.g., fit indices), corrections for multiple testing, and tests for statistical violations, if applicable.-->
+
 Enter your response here
 
 ## Inference criteria
 <!--If you test hypotheses in your study: Specify the criteria used for inferences (e.g., p values, Bayes factors, confidence intervals, effect size measures) and the thresholds for accepting or rejecting your hypotheses. If possible, define the smallest effect size of interest. If inference criteria differ between hypotheses, specify separately for each hypothesis and respective statistical model by explicitly referring to the numbers of the hypotheses. Describe which effect size measures will be reported and how they are calculated-->
+
 Enter your response here 
 
 ## Exploratory analysis
 <!--Based on the exploratory research questions outlined in the introduction section, describe any exploratory analyses to be conducted with your data. Include any planned analyses that are not confirmatory in the sense of being a direct test of one of the specified hypotheses. Please note that other non-registered exploratory analyses can be added in the article.-->
+
 Enter your response here
 
 ## Other information
 <!--If there is anything else you want to add regarding your analysis plan, describe it here-->
+
 Enter your response here 
 
 # References
