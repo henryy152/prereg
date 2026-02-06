@@ -18,9 +18,7 @@ affiliation:
 output: prereg::prereg_pdf
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Part 1: Study information
 
@@ -212,3 +210,11 @@ Enter your response here.
 The authors of this preregistration state that they have filled out this preregistration
 to the best of their knowledge and that no other preregistration exists pertaining
 to the same hypotheses and dataset.
+
+# References
+## 
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+\noindent
