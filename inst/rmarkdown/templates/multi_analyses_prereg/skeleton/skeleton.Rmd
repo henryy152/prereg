@@ -43,7 +43,12 @@ Enter your response here
 ## Covariates
 <!--
 1. What are other constructs that are involved in, or somehow affect, the associations of interest?
-* These could be mediators, moderators, confounds, or constructs that impact the effects, even if they don’t impact the causes
+* These could be 
+-mediators, 
+-moderators, 
+-confounds, or 
+-constructs 
+that impact the effects, even if they don’t impact the causes
 * These other constructs may be from competing causal models—we’ll tackle this below.
 2. List these…-->
 
