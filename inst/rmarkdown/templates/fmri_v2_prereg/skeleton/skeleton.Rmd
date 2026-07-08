@@ -35,8 +35,250 @@ Enter your response here.
 ## Hypotheses*
 <!-- List each hypothesis you want to test as part of this study. Each hypothesis should be specific, concise and testable. The table below can be used as a checklist.
 
-Be as specific as possible about your regions of interest (ROI) and definitions of other relevant variables mentioned here. How to define your ROIs or operationalize these relevant variables should be detailed in the section Variables and Analysis Plan. -->
+Be as specific as possible about your regions of interest (ROI) and definitions of other relevant variables mentioned here. How to define your ROIs or operationalize these relevant variables should be detailed in the section Variables and Analysis Plan. 
 
+__ Is the hypothesis directional or non-directional?
+__or NA If directional, state the directional relationship between your (manipulated or
+measured) variables.
+__or NA For interaction effects, describe the expected shape of the interactions.
+__or NA If you are manipulating a variable, formulate predictions for successful
+manipulation checks: What variables will you use to check whether your
+manipulation worked? If not, explain why no manipulation check is included.
+__or NA A figure or table with expected results, e.g., to describe complex interactions.
+If multiple alternative predictions can be made for the same IV-DV combination,
+__or NA describe what outcome would be predicted by which theory.
+Adapted from van’t Veer & Giner-Sorolla, 2016  -->
+
+Enter your response here.
+
+
+# Design Plan
+<!-- Describe the overall design of your study. This research plan is designed to register a single study, so if you have multiple experimental designs that you wish to preregister, please complete separate preregistrations for each of them. -->
+
+## Study Type*
+<!-- __ Experiment (incl. a manipulation or treatment to which participants are randomly assigned)
+     __ Observational study (data collected from subjects without having been randomly assigned to a treatment)
+     __ Other: -->
+
+Enter your response here.
+
+
+## Study Design*
+<!-- Describe your study design. Is it a between-subjects (unpaired), within-subjects (paired), or mixed design? If applicable, specify manipulation(s), groups tested, and repeated measurements.
+
+Experiment / Intervention study: involves a manipulation of exposure on the subject level
+
+__ or NA Are effects of an intervention tested in one population by allocating
+participants randomly to the experimental or control group and testing pre and
+post intervention? (randomized controlled study)
+__or NA Are participants allocated to only one group or re-allocated to the other group
+after a wash-out period? (crossover study)
+__or NA Are intervention effects tested in different populations? (e.g., patients vs.
+controls)
+
+Observational study: only measures exposures and outcomes, no manipulation of the exposure
+
+__or NA case-control study (e.g. patients vs. healthy controls)
+__or NA classical fMRI study (e.g. healthy participants performing the same task)
+__or NAcross-sectional study (e.g. differences in fMRI activity predict between-person
+differences in a trait)
+__or NA cohort study/longitudinal study (e.g. fMRI or change in fMRI predict within-
+person change in a trait) -->
+
+Enter your response here.
+
+
+## Experimental design*
+<!-- Describe the experimental design of the task(s) performed in the scanner. You can fill in the table for each task or write a paragraph below as you would for your publication and use the table as a checklist. Consider sharing the code and link to it here.
+
+Design specification
+
+__ Design type (task, rest; event-related, block, mixed design, naturalistic)
+__ Instructions to subjects (what were they asked to do?)
+__ State whether or not participants practiced the task, and if so, describe the practice.
+__ Conditions & Stimuli (as detailed as possible, pictures encouraged)
+__ Number of runs, blocks, trials or experimental units per session and/or subject
+__ Timing and Duration (length of each trial and interval between trials, jitter)
+__or NA Was the design optimized for efficiency? If so, how?
+__or NA Randomization/pseudo-randomized/counterbalancing (why/why not done & how)
+__ Length of experiment (length of full scan and each run)
+__or NA Run order (of tasks within scanner)
+__ Presentation software & response collection (software and hardware, name, version,
+operating system; code if possible)
+
+Piloting
+
+__or NA Did you validate your stimuli? (If yes, describe study & results)
+__or NA Did you pilot your study design? (If yes, describe study and results)
+
+Note: this question has a variety of possible answers. The key is for a researcher to be as detailed as is necessary given the specifics of their design. Be careful to determine if every parameter has been specified in the description of the study design. There may be some overlap between this section and the following section. That is OK, as long as sufficient detail is given in one of the areas to provide all of the requested information. -->
+
+Enter your response here.
+
+
+## Blinding*
+<!-- Blinding describes who is aware of the experimental manipulations within a study.
+
+__or NA No blinding is involved in this study.
+__or NA For studies that involve human subjects, they will not know the treatment group
+to which they have been assigned.
+__or NA Personnel who interact directly with the study subjects (either human or non-
+human subjects) will not be aware of the assigned treatments. (Commonly known as “double blind”)
+__or NA Personnel who analyze the data collected from the study are not aware of the
+treatment applied to any given group.
+__or NA Additional blinding in this study: -->
+
+Enter your response here.
+
+
+## Randomization*
+<!-- Is there any form of randomization of your participants and/or staff? If so, detail the type of randomization (e.g., simple randomization, block randomization, stratified randomization, minimization) and the mechanism used to implement the random allocation sequence (e.g., a certain software). Note that the randomization applied in the experimental design of your task can be described in the section Study Design above. -->
+
+Enter your response here.
+
+
+# Sampling Plan
+<!-- Describe how you plan to collect samples, as well as the number of samples you plan to collect and your rationale for this decision. Please keep in mind that the data described in this section should be the actual data used for analysis, so if you are using a subset of a larger dataset, please describe the subset that will actually be used in your study. -->
+
+## Details of Larger Project*
+<!-- Is your preregistration part of a larger project?
+ * No
+ * Yes
+If yes, provide a brief description of the larger study or, if applicable, link to the OSF project page, a related preregistration, a poster, etc. You may also include a figure detailing the protocol of the project. 
+Note, this is meant to provide context for the larger scope of the project. -->
+
+Enter your response here.
+
+
+## Existing data*
+<!-- Preregistration is designed to emphasize the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted without specific hypothesis or after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. For research that uses existing datasets (e.g. Human Connectome Project, UK biobank, etc.), we also refer to the OSF preregistration template for secondary data analysis, which was designed specifically for this type of analytical research(https://osf.io/x4gzt/). Please select the description that best describes your situation:
+ * Registration prior to creation of data
+ * Registration prior to accessing the data
+ * Registration prior to any human observation of the data
+ * Registration prior to analysis of the data
+ * Registration following analysis of the data -->
+
+Enter your response here.
+
+
+## Explanation of Existing Data
+<!-- If you indicate that you will be using some data that already exists in this study, please describe your prior knowledge of any patterns or summary statistics in the data. This may include an explanation of how access to the data has been limited, who has observed the data, and if/what is already known about the sample you investigate (e.g., links to prior papers, osf project page, prior posters or talks, or descriptions). The purpose of this question is to assure that the line between confirmatory and exploratory analysis is clear. -->
+
+Enter your response here.
+
+
+## Data collection*
+<!-- Is this preregistration done before data collection?
+* No
+There is no need to describe the data collection in complete detail in your preregistration. Nonetheless, it is strongly recommended to include information on your sample (see checklist below), behavioral and fMRI data acquisition (Appendix 2) in a
+short paragraph as it would appear in the Methods section of a publication. Especially mention details important for your choices in Variables and Analysis Plan (e.g. temporal/spatial resolution of fMRI which may motivate certain preprocessing or analysis procedures).
+* Yes
+Describe all steps of data collection including your sample description (see checklist below). Make sure to detail procedures of all relevant behavioral and fMRI data acquisition steps. Other measurements relevant to address your hypotheses or that are included for different purposes (e.g., characterizing groups, sensitivity analysis, exploratory analysis) may also be detailed here. For the task-based fMRI measurements you can use the table in Appendix 2 as a checklist of topics to cover in this description.
+
+Note: There may be some overlap between this and other sections. Again, that is OK, as long as
+sufficient detail is given in one of the areas to provide all of the requested information.
+
+Sample description
+
+__ Population
+__ Recruitment efforts
+__ Inclusion criteria
+__ Exclusion criteria
+__ Reimbursement for participation
+__ Information on ethics approval and informed consent
+__ Number of participants tested and analyzed
+__ Age
+__ Sex / Gender
+__ Handedness
+__or NA Clinical criteria
+__or NA Matching strategy
+__or NA Other relevant participant or group characteristics for your study
+__ Study timeline including all measures
+
+Other Measures
+
+Please specify all additional measures you plan to investigate, for example:
+• Experimental tasks outside the scanner: For each additional behavioral task, give a short description and specify the design and task. You may use the table for the design of scanner tasks in the section Design Plan as a checklist.
+• Questionnaires and standardized assessments: For each questionnaire and standardized assessment, mention the name and version.
+• Additional neuroimaging measures: Give a description and brief purpose statement of any other imaging modalities that will be included in your study (e.g., EEG, Neuromodulation (TMS, tDCS, …)).
+• Physiological recordings: Give a description and brief purpose statement of any physiological data that will be collected from the participants before/during/after fMRI (e.g. eye-tracking, pulse, electrocardiography, plethysmography (pulse oximetry),
+respiration, blood pressure, blood samples, skin conductance (SCR), electromyography, etc.). For each measure, mention the device.
+
+Note that parts of this section may be covered in the Design Plan section instead. -->
+
+Enter your response here.
+
+
+## Sample Size*
+<!-- State your target sample size and, if applicable, your stopping rule. Justify your choices. Justification of sample size or stopping rule:
+
+__or NA Power Analysis for fMRI or behavioral analysis. Please provide all details on your calculation. (strongly recommended, no standard procedures for fMRI power analysis but see https://brainpower.readthedocs.io/en/latest/index.html for available tools)
+__or NA Time constraints (e.g., will recruit for one year or until X date)
+__or NA Money constraints (e.g., monetary support will support up to X subjects)
+__or NA Personnel constraints (e.g., will recruit for time period in which personnel support is
+available)
+__ Other:
+If possible, include contingencies for if your target sample size is not met. E.g., how will hypotheses be adopted to better powered question? -->
+
+Enter your response here.
+
+
+# Variables
+<!-- In this section you can describe all variables (both manipulated and measured variables) that will later be used in your analysis plan. In your analysis plan, you will have the opportunity to describe how each variable will be used. If you have variables which you are measuring for exploratory analyses, you are not required to list them, though you are permitted to do so. -->
+
+## Manipulated variables
+<!-- Describe all variables you plan to manipulate and the levels or treatment arms of each variable. This is not applicable to an observational study. -->
+
+Enter your response here.
+
+
+## Measured variables*
+<!-- Behavioral data
+Describe each variable that you will measure and indicate the corresponding confirmatory hypothesis. You can use the checklist below.
+
+Measured variables
+
+__ Outcome measures/dependent variables (specify whether confirmatory or
+exploratory outcome, how variable was measured, scale/range of measure, which
+subscale/component of measure you will use).
+__ Predictor measures/independent variables (specific measure, scale/range of measure, 
+which subscale/component of measure you will use).
+__or NA Covariate measures (specific measure, scale/range of measure, which
+subscale/component of measure you will use).
+
+Quality control
+
+__ Any outcome-neutral criteria that must be met for successful testing of the stated
+hypotheses. Such quality checks might include the absence of floor or ceiling
+effects in data distributions, positive controls, or other quality checks that are
+orthogonal to the experimental hypotheses.
+__or NA How will you determine which subjects, data points or measures (if any) to exclude
+from your analyses? If possible, specify objective exclusion criteria (due to
+technical errors, slow reactions, instructions not understood, accuracy below a
+certain threshold, or for any other reasons).
+__or NA How will you deal with incomplete or missing data (e.g., missing timepoints or
+missing/incomplete data within or between runs; what percent missing will be
+included)? Under what conditions would data be replaced and how?
+__or NA If possible, define contingency plans how to proceed in such cases, (e.g., plans if x%
+of behavioral data is missing; if the X questionnaire is missing for more than 10% of
+participants we will not use it or if X does not show variability in response (either
+ceiling or floor effects) in which we cannot look at behavioral pattern of interest,
+we will not use that questionnaire and use Y questionnaire instead).
+
+Transformations
+
+__or NA If you plan on transforming, centering, recoding the data, or will require a coding
+scheme for categorical variables, please describe that process.
+Include contingency plans for transformation: (e.g., transformations that will occur
+if data are skewed or for model convergence/multicollinearity
+
+Code
+
+__or NA Link to shared code for scoring behavioral data
+
+
+fMRI data 
+Describe what variable will be measured (e.g., BOLD response) and detail all preprocessing steps. You can fill in the table or write paragraph below as you would for paper and use the table as checklist of topics covered. For each piece of software used, give the version number. Also indicate which platform you ran the software on.
 
 
 
