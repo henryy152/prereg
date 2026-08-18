@@ -38,6 +38,9 @@
 #' Van den Akker, O. R., Weston, S., Campbell, L., Chopik, B., Damian, R., Davis-Kean, P., … Bakker, M. (2021). Preregistration of secondary data analysis: A template and tutorial. Meta-Psychology, 5. \doi{doi:10.15626/mp.2020.2625}
 #'
 #' van 't Veer, A. E., & Giner-Sorolla, R. (2016). Pre-registration in social psychology---A discussion and suggested template. Journal of Experimental Social Psychology, 67, 2--12. doi: \doi{doi:10.1016/j.jesp.2016.03.004}
+#' 
+#' Beyer, F., Flannery, J., Gau, R., Janssen, L., Schaare, L., Hartmann, H., Nilsonne, G., Martin, S., Khalil, A., Lipp, I., Puhlmann, L., Heinrichs, H., Mohamed, A., Herholz, P., Sicorello, M., & Panagoulas, E. (2021). A fMRI pre-registration template. PsychArchives. https://doi.org/10.23668/PSYCHARCHIVES.5121
+#'
 #' @docType package
 #' @name prereg
 
